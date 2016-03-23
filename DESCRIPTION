@@ -1,10 +1,10 @@
-Package: singleCellRNASeqMouseTreutlein
+Package: singleCellRNASeqMouseTreutleinLung
 Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Author: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Version: 0.99.0
 License: Artistic-2.0
 Title: Truetlein et al single-cell RNA-seq data of mouse lung cells 
-Description: Treutlein et al., 2014 collected single-cell RNAseq expression data of mouse lung cells.
+Description: This package stores Treutlein et al., 2014 data in an ExpressionSet object. Citation: Barbara Treutlein, Doug G. Brownfield, Angela R. Wu, Norma F. Neff, Gary L. Mantalas, F. Hernan Espinoza, Tushar J. Desai, Mark A. Krasnow, & Stephen R. Quake. Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq. Nature 509:7500, 371-375 (2014) DOI: 10.1038/nature13173
 LazyData: yes
 Depends:
     R (>= 2.10), Biobase (>= 2.26.0)
